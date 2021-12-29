@@ -11,6 +11,8 @@
 
 - ❓ Ask me about anything! I'd love to hear from you.
 
+- Fun fact: I love making music and training calisthenics!
+
 - 📫 How to reach me: skumar213@gmail.com
 
 <br/>
