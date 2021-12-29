@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Sabi, a fullstack engineer</div>
 
-- 🔭 I’m currently working on [Redpanda](https://www.redpanda.education).
+- 🔭 I’m currently working on [Redpanda](https://redpandaasl.herokuapp.com/).
  
 - 🌱 I’m currently learning [Tensorflow](https://www.tensorflow.org/).
 
