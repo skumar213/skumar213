@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Redpanda](https://redpandaasl.herokuapp.com/).
  
-- 🌱 I’m currently learning [Tensorflow](https://www.tensorflow.org/).
+- 🌱 I’m currently learning Data Structures and Algorithms. 
 
 - ❓ Ask me about anything! I'd love to hear from you.
 
