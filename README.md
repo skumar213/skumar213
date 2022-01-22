@@ -1,7 +1,7 @@
 
 ### <div align="center">Hi there 👋 I'm Sabi, a fullstack engineer</div>
 
-- 🔭 I’m currently working on [Redpanda](https://redpandaasl.herokuapp.com/).
+- 🔭 I’m currently working on [Budgetly](https://github.com/skumar213/budgetly).
  
 - 🌱 I’m currently learning [Data Structures and Algorithms](https://www.algorist.com/). 
 
