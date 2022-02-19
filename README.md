@@ -27,5 +27,5 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img align="left" img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"/>
+<img style="margin: 10px" src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="Express.js" height="50" />
 <!--
